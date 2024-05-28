@@ -18,7 +18,7 @@ The trained model successfully predicts future SWPPX stock prices with reasonabl
 Usage:
 To use this forecast model:
 
-Download the provided Jupyter notebook (SWPPX_Forecast.ipynb) and the SWPPX dataset.
+Download the provided Jupyter notebook (SWPPX_Forecast.ipynb) and the SWPPX dataset (SWPPX.csv).
 Run the notebook on platforms such as Google Colab or locally with TensorFlow and Keras installed.
 Follow the instructions in the notebook to preprocess the data, train the LSTM model, and make forecasts.
 Adjust hyperparameters or model architecture as needed for further experimentation.
