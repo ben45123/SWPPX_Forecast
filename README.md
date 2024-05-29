@@ -1,7 +1,7 @@
 SWPPX Stock Price Forecast Using LSTM
 
 Overview:
-This project aims to forecast the stock price of the SWPPX (Schwab S&P 500 Index Fund) using a Long Short-Term Memory (LSTM) neural network. The dataset consists of historical SWPPX closing prices over time. For a concrete understanding of what this project aimed to solve and the results, view the SWPPX Forecast Research word file.
+This project aims to forecast the stock price of the SWPPX (Schwab S&P 500 Index Fund) using a Long Short-Term Memory (LSTM) neural network. The dataset consists of historical SWPPX closing prices over time. For a concrete understanding of what this project aimed to solve and the results, view the SWPPX Forecast Research docx file.
 
 Dataset:
 The dataset comprises historical SWPPX closing prices stored in a CSV file. Each row contains the date and the corresponding closing price of SWPPX. The data is preprocessed and indexed by date for time-series analysis.
